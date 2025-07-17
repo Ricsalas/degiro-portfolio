@@ -189,34 +189,6 @@
       "price_eur": 257.95,
       "value_eur": 664.73715,
       "bep_eur": 280.02
-    },
-    {
-      "id": "USD",
-      "qty": 0,
-      "price_eur": 1,
-      "value_eur": 0,
-      "bep_eur": 0
-    },
-    {
-      "id": "EUR",
-      "qty": 0,
-      "price_eur": 1,
-      "value_eur": 0,
-      "bep_eur": 0
-    },
-    {
-      "id": "FLATEX_USD",
-      "qty": 0,
-      "price_eur": 1,
-      "value_eur": 0,
-      "bep_eur": 0
-    },
-    {
-      "id": "FLATEX_EUR",
-      "qty": 761.86,
-      "price_eur": 1,
-      "value_eur": 761.86,
-      "bep_eur": 0
     }
   ]
 }
