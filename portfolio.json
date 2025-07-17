@@ -2,7 +2,6 @@
   "date": "2025-07-17",
   "portfolio": [
     {
-      "lastUpdated": 527,
       "name": "portfolio",
       "value_eur": [
         {
@@ -2640,10 +2639,7 @@
           ],
           "isAdded": true
         }
-      ],
-      "isAdded": true,
-      "asset_type": null,
-      "etf": false
+      ]
     }
   ]
 }
