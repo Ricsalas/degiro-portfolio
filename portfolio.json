@@ -2,190 +2,376 @@
   "date": "2025-07-17",
   "portfolio": [
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 6.0,
       "price_eur": 194.81,
       "bep_eur": 174.065,
-      "value_eur": 1004.05074
+      "value_eur": 1004.05074,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 2.0,
       "price_eur": 485.08,
       "bep_eur": 368.65,
-      "value_eur": 833.36744
+      "value_eur": 833.36744,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 16.0,
       "price_eur": 223.19,
       "bep_eur": 184.53875,
-      "value_eur": 3067.52336
+      "value_eur": 3067.52336,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 3.0,
       "price_eur": 361.77,
       "bep_eur": 496.52,
-      "value_eur": 932.28129
+      "value_eur": 932.28129,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 9.0,
       "price_eur": 505.62,
       "bep_eur": 402.93666666666667,
-      "value_eur": 3908.94822
+      "value_eur": 3908.94822,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 9.0,
       "price_eur": 321.67,
       "bep_eur": 223.0976923076923,
-      "value_eur": 2486.83077
+      "value_eur": 2486.83077,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 11.0,
       "price_eur": 120.0,
       "bep_eur": 96.68,
-      "value_eur": 1133.88
+      "value_eur": 1133.88,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 13.0,
       "price_eur": 121.86,
       "bep_eur": 122.175,
-      "value_eur": 1584.18
+      "value_eur": 1584.18,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 0.0,
       "price_eur": 91.465,
       "bep_eur": 0.0,
-      "value_eur": 0.0
+      "value_eur": 0.0,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 30.0,
       "price_eur": 34.4,
       "bep_eur": 35.91823333333333,
-      "value_eur": 886.488
+      "value_eur": 886.488,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 8.0,
       "price_eur": 135.35,
       "bep_eur": 150.0,
-      "value_eur": 930.1252
+      "value_eur": 930.1252,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 13.0,
       "price_eur": 210.16,
       "bep_eur": 204.76235384615384,
-      "value_eur": 2346.85672
+      "value_eur": 2346.85672,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 8.0,
       "price_eur": 72.1,
       "bep_eur": 80.9,
-      "value_eur": 495.4712
+      "value_eur": 495.4712,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 0.0,
       "price_eur": 434.9,
       "bep_eur": 0.0,
-      "value_eur": 0.0
+      "value_eur": 0.0,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 6.0,
       "price_eur": 121.85,
       "bep_eur": 122.02,
-      "value_eur": 731.1
+      "value_eur": 731.1,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 3.0,
       "price_eur": 211.94,
       "bep_eur": 110.11571428571429,
-      "value_eur": 546.16938
+      "value_eur": 546.16938,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 3.0,
       "price_eur": 292.49,
       "bep_eur": 368.2866666666667,
-      "value_eur": 753.74673
+      "value_eur": 753.74673,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 7.0,
       "price_eur": 171.37,
       "bep_eur": 108.63,
-      "value_eur": 1030.44781
+      "value_eur": 1030.44781,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 13.0,
       "price_eur": 160.08,
       "bep_eur": 103.89,
-      "value_eur": 1787.61336
+      "value_eur": 1787.61336,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 4.0,
       "price_eur": 625.8,
       "bep_eur": 677.6,
-      "value_eur": 2503.2
+      "value_eur": 2503.2,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 2.0,
       "price_eur": 465.3,
       "bep_eur": 434.9,
-      "value_eur": 799.3854
+      "value_eur": 799.3854,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 24.0,
       "price_eur": 72.97,
       "bep_eur": 74.22466666666666,
-      "value_eur": 1504.34952
+      "value_eur": 1504.34952,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 8.0,
       "price_eur": 93.99,
       "bep_eur": 93.9,
-      "value_eur": 751.92
+      "value_eur": 751.92,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 25.0,
       "price_eur": 182.97,
       "bep_eur": 151.554,
-      "value_eur": 3929.28075
+      "value_eur": 3929.28075,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 10.0,
       "price_eur": 95.15,
       "bep_eur": 87.44,
-      "value_eur": 817.3385
+      "value_eur": 817.3385,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 4.0,
       "price_eur": 702.91,
       "bep_eur": 531.345,
-      "value_eur": 2415.19876
+      "value_eur": 2415.19876,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 3.0,
       "price_eur": 257.95,
       "bep_eur": 280.02,
-      "value_eur": 664.73715
+      "value_eur": 664.73715,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 0.0,
       "price_eur": 1.0,
       "bep_eur": 0.0,
-      "value_eur": 0.0
+      "value_eur": 0.0,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 0.0,
       "price_eur": 1.0,
       "bep_eur": 0.0,
-      "value_eur": 0.0
+      "value_eur": 0.0,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 0.0,
       "price_eur": 1.0,
       "bep_eur": 0.0,
-      "value_eur": 0.0
+      "value_eur": 0.0,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     },
     {
+      "name": null,
+      "symbol": null,
+      "isin": null,
       "qty": 761.86,
       "price_eur": 1.0,
       "bep_eur": 0.0,
-      "value_eur": 761.86
+      "value_eur": 761.86,
+      "currency": null,
+      "asset_type": null,
+      "etf": false
     }
   ]
 }
